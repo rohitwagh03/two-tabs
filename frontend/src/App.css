@@ -1,0 +1,27 @@
+.tabs {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+    .tabs button {
+        padding: 10px 20px;
+        margin-right: 10px;
+        cursor: pointer;
+        background: #f0f0f0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+        .tabs button.active {
+            background: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+
+.tab-content {
+    margin-top: 20px;
+}
+
+.error {
+    color: red;
+}

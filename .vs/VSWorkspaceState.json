@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\lib",
+    "\\backend\\lib\\backend",
+    "\\backend\\lib\\backend_web",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\wasm",
+    "\\frontend\\src\\wasm\\rust_calculator",
+    "\\frontend\\src\\wasm\\rust_calculator\\pkg",
+    "\\frontend\\src\\wasm\\rust_calculator\\src"
+  ],
+  "SelectedNode": "\\backend",
+  "PreviewInSolutionExplorer": false
+}
